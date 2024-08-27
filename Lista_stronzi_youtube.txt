@@ -1,3 +1,4 @@
+www.youtube.com###comment:has(#author-text[href="/@LucianoFusacchia-j3f"])
 www.youtube.com###comment:has(#author-text[href="/@ Natura e Benessere - Arless e Sofia"])
 www.youtube.com###comment:has(#author-text[href="/@* FIRE HEART CHANNEL *"])
 www.youtube.com###comment:has(#author-text[href="/@--Eltico"])
